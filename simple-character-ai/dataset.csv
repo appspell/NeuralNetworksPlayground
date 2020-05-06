@@ -1,0 +1,4 @@
+enemyNearby,hasAmmo,health,run,attack
+1,1,100,0,1
+1,0,100,1,0
+0,1,10,1,0
